@@ -14,7 +14,7 @@ The "Traveler Form" is a simple form that displays the information entered.
 
 ## Technologies: 
 
-* ReacrDOM && JSX 
+* ReactDOM && JSX 
 * Functional Components 
 * Parent/Child Components 
 * Class-based Components 
@@ -33,8 +33,6 @@ Run the application in development mode in the project directory:
 
 ```
 npm install
-
-
 npm start
 ```
 
