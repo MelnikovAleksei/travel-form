@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/travel-form/static/js/main.5c5715a5.chunk.js",
+    "main.js.map": "/travel-form/static/js/main.5c5715a5.chunk.js.map",
+    "runtime-main.js": "/travel-form/static/js/runtime-main.0b811a2d.js",
+    "runtime-main.js.map": "/travel-form/static/js/runtime-main.0b811a2d.js.map",
+    "static/js/2.89924d3c.chunk.js": "/travel-form/static/js/2.89924d3c.chunk.js",
+    "static/js/2.89924d3c.chunk.js.map": "/travel-form/static/js/2.89924d3c.chunk.js.map",
+    "index.html": "/travel-form/index.html",
+    "static/js/2.89924d3c.chunk.js.LICENSE.txt": "/travel-form/static/js/2.89924d3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b811a2d.js",
+    "static/js/2.89924d3c.chunk.js",
+    "static/js/main.5c5715a5.chunk.js"
+  ]
+}
