@@ -1,4 +1,4 @@
-# Простое веб-приложение на React "Форма путешественника". Создано в рамках вводного курса по React JS. Автор курса [Bob Zirol (ссылка на GitHub)](https://github.com/bobziroll) 
+# Простое веб-приложение на React "Форма путешественника". Создано в рамках вводного курса по React JS. Автор курса [Bob Ziroll (ссылка на GitHub)](https://github.com/bobziroll) 
 
 *Read this in other languages:* [EN](https://github.com/MelnikovAleksei/travel-form/blob/main/README.EN.md) 
 
