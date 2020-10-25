@@ -33,6 +33,8 @@ Run the application in development mode in the project directory:
 
 `
 npm install
+`
+`
 npm start
 `
 

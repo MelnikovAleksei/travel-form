@@ -33,6 +33,8 @@ git clone https://github.com/MelnikovAleksei/travel-from.git
 
 `
 npm install
+`
+`
 npm start
 `
 
