@@ -31,12 +31,12 @@ git clone https://github.com/MelnikovAleksei/travel-from.git
 
 Run the application in development mode in the project directory: 
 
-`
+```
 npm install
-`
-`
+
+
 npm start
-`
+```
 
 ## Future revisions of the project will include: 
 

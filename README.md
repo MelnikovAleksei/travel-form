@@ -31,12 +31,12 @@ git clone https://github.com/MelnikovAleksei/travel-from.git
 
 В директории проекта запустить приложение в режиме разработки: 
 
-`
+```
 npm install
-`
-`
+
+
 npm start
-`
+```
 
 ## Будущие изменения будут включать в себя: 
 
