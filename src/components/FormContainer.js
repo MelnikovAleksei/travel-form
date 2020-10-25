@@ -39,11 +39,11 @@ class FormContainer extends React.Component {
 
   render() {
     return (
-        <FormComponent 
+      <FormComponent 
         handleChange={this.handleChange}
         handleSubmit={this.handleSubmit}
         {...this.state}
-        />
+      />
     )
   }
 }
