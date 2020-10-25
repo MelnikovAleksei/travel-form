@@ -1,4 +1,4 @@
-# A simple traveller form React web application. Created as part of an introductory React JS course. Course author [Bob Zirol (ссылка на GitHub)](https://github.com/bobziroll) 
+# A simple traveller form React web application. Created as part of an introductory React JS course. Course author [Bob Ziroll (ссылка на GitHub)](https://github.com/bobziroll) 
 
 *Read this in other languages:* [RU](https://github.com/MelnikovAleksei/travel-form/blob/main/README.md) 
 
