@@ -14,7 +14,7 @@
 
 ## Технологии: 
 
-* ReacrDOM && JSX 
+* ReactDOM && JSX 
 * Functional Components 
 * Parent/Child Components
 * Class-based Components
@@ -33,8 +33,6 @@ git clone https://github.com/MelnikovAleksei/travel-from.git
 
 ```
 npm install
-
-
 npm start
 ```
 
